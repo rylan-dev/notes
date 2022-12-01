@@ -22,7 +22,7 @@ export const NavItemList = [
   },
   {
     text: "数据结构与算法",
-    link: "/pages/algorithm/test",
+    link: "/pages/algorithm/leetcode/jianzhioffer/day01",
   },
   {
     text: "计算机网络",
