@@ -1,7 +1,7 @@
 # 第 1 天 栈与队列（简单）
 
 ## [剑指 Offer 09. 用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/?envType=study-plan&id=lcof&plan=lcof&plan_progress=1v5v651)
-思路：$\sqrt{3x-1}+(1+x)^2$
+思路：
 
 1. 声明两个栈
 2. 对于入队操作：直接将元素 `push` 进第一个栈中

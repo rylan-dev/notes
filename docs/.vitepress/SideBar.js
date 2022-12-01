@@ -57,6 +57,8 @@ export const SideBarList = {
         { link: "/pages/algorithm/leetcode/jianzhioffer/day10", text: "第 10 天 动态规划（中等）" },
         { link: "/pages/algorithm/leetcode/jianzhioffer/day11", text: "第 11 天 双指针（简单）" },
         { link: "/pages/algorithm/leetcode/jianzhioffer/day12", text: "第 12 天 双指针（简单）" },
+        { link: "/pages/algorithm/leetcode/jianzhioffer/day13", text: "第 13 天 双指针（简单）" },
+        { link: "/pages/algorithm/leetcode/jianzhioffer/day14", text: "第 14 天 搜索与回溯算法（中等）" },
       ],
     },
   ],
