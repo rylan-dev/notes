@@ -60,6 +60,7 @@ export const SideBarList = {
         { link: "/pages/algorithm/leetcode/jianzhioffer/day13", text: "第 13 天 双指针（简单）" },
         { link: "/pages/algorithm/leetcode/jianzhioffer/day14", text: "第 14 天 搜索与回溯算法（中等）" },
         { link: "/pages/algorithm/leetcode/jianzhioffer/day15", text: "第 15 天 搜索与回溯算法（中等）" },
+        { link: "/pages/algorithm/leetcode/jianzhioffer/day16", text: "第 16 天 排序（简单）" },
       ],
     },
   ],
