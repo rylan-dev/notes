@@ -1,4 +1,4 @@
-# 第 18 天搜索与回溯算法（中等）
+# 第 18 天 搜索与回溯算法（中等）
 
 ## [剑指 Offer 55 - I. 二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/?envType=study-plan&id=lcof&plan=lcof&plan_progress=1v5v651)
 
