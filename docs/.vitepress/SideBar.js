@@ -64,6 +64,7 @@ export const SideBarList = {
         { link: "/pages/algorithm/leetcode/jianzhioffer/day17", text: "第 17 天 排序（中等）" },
         { link: "/pages/algorithm/leetcode/jianzhioffer/day18", text: "第 18 天 搜索与回溯算法（中等）" },
         { link: "/pages/algorithm/leetcode/jianzhioffer/day19", text: "第 19 天 搜索与回溯算法（中等）" },
+        { link: "/pages/algorithm/leetcode/jianzhioffer/day20", text: "第 20 天 分治算法（中等）" },
       ],
     },
   ],
